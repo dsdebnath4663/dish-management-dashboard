@@ -1,75 +1,35 @@
-# Getting Started with Create React App
+# Dish Management Service
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Overview
+This project consists of a backend service and a frontend dashboard for managing dishes. Below are the links to the repositories and a video explanation of the project.
 
-https://chatgpt.com/share/2babaf60-a763-4c9c-a964-d3a413ffdc7a
+## Repositories
 
-[Backend-service](https://github.com/meghnadsaha/dish-management-service)
+### Backend
+- **Repository**: [dish-management-service](https://github.com/dsdebnath4663/dish-management-service)
+- **Description**: This repository contains the backend service code for the dish management application.
 
-## Available Scripts
+### Frontend
+- **Repository**: [dish-management-dashboard](https://github.com/dsdebnath4663/dish-management-dashboard)
+- **Description**: This repository contains the frontend dashboard code for managing dishes.
 
-In the project directory, you can run:
+## Video Explanation
+For a detailed explanation of the project, please watch the [video demonstration](https://youtu.be/DpC2IedwwWw).
 
-### `npm start`
+## How to Use
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+### Backend Setup
+1. Clone the repository: `git clone https://github.com/dsdebnath4663/dish-management-service`
+2. Navigate to the project directory: `cd dish-management-service`
+3. Install dependencies: `mvn clean install` (or the appropriate package manager command)
+4. Start the server: `mvn spring-boot:run` (or the appropriate command to start your server)
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+### Frontend Setup
+1. Clone the repository: `git clone https://github.com/dsdebnath4663/dish-management-dashboard`
+2. Navigate to the project directory: `cd dish-management-dashboard`
+3. Install dependencies: `npm install` (or the appropriate package manager command)
+4. Start the frontend application: `npm start` (or the appropriate command to start your frontend server)
 
-### `npm test`
+---
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-# dish-management-dashboard
+Thank you for checking out the Dish Management Service project!
